@@ -82,28 +82,28 @@ Consortium blockchains, employed by leading cryptocurrencies like Bitcoin and Et
 <li><strong>Confirmation Times</strong>
 <p>
 
-    Network latency—the time required to generate an additional block of transaction in a chain or the time it takes for a transaction to appear on a blockchain—is a major issue of concern. For instance, Bitcoin’s 10-minute block-time is significantly longer than the average network latency. To add, Bitcoin blocks require 5 subsequent blocks to ensure confirmation. Thus, it takes close to an hour for transactions to receive confirmation. On the other hand, Ethereum, which has lower latency, has a relatively high block-time, around 13 minutes. These long confirmation times hinder the wide scale adoption of these classic blockchains in many smart contract applications.
+Network latency—the time required to generate an additional block of transaction in a chain or the time it takes for a transaction to appear on a blockchain—is a major issue of concern. For instance, Bitcoin’s 10-minute block-time is significantly longer than the average network latency. To add, Bitcoin blocks require 5 subsequent blocks to ensure confirmation. Thus, it takes close to an hour for transactions to receive confirmation. On the other hand, Ethereum, which has lower latency, has a relatively high block-time, around 13 minutes. These long confirmation times hinder the wide scale adoption of these classic blockchains in many smart contract applications.
 </p>
 <ul>
 
 <li><strong>Fork Generation</strong>
 <p>
 
-    Fork generation—whether hard or a soft fork—is time-consuming, creates potential vulnerabilities, and consumes significant computational energy. In regards to vulnerabilities, fork generation exposes blockchain networks to costly attacks like Peer-to-Peer Network-based, Smart Contract-based, Consensus & Ledger-based, and Wallet-based attacks. In the past, Ethereum Classic, Bitcoin gold, Feathercoin, Vertcoin, Grin, and Verge blockchain networks suffered 51% attacks. (A 51% attack refers to an attack on Proof-of-Work (PoW) blockchain where attackers gain control of 51% or more of a networks’ hash rate). Given the vulnerabilities therein, private/permissioned blockchains are usually very resistant to possible forks of their blockchain.
+Fork generation—whether hard or a soft fork—is time-consuming, creates potential vulnerabilities, and consumes significant computational energy. In regards to vulnerabilities, fork generation exposes blockchain networks to costly attacks like Peer-to-Peer Network-based, Smart Contract-based, Consensus & Ledger-based, and Wallet-based attacks. In the past, Ethereum Classic, Bitcoin gold, Feathercoin, Vertcoin, Grin, and Verge blockchain networks suffered 51% attacks. (A 51% attack refers to an attack on Proof-of-Work (PoW) blockchain where attackers gain control of 51% or more of a networks’ hash rate). Given the vulnerabilities therein, private/permissioned blockchains are usually very resistant to possible forks of their blockchain.
 </p>
 <ul>
 
 <li><strong>High Energy Consumption</strong>
 <p>
 
-    With classic blockchain networks, the Proof-of-Work (POW) consensus mechanism requires mining (computational power) to do proof-of-work computations. These transactions consume alarmingly large amounts of energy. To clarify, the current annual estimated energy consumption of Bitcoin mining activities is 87.17 terawatt-hours (TWh)<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup> while the energy consumption of Ethereum is 29.41 TWh.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup><sup> </sup>Put into further perspective, as of 2017, Bitcoin mining activities consumed energy levels equivalent to Denmark’s energy consumption. With projections indicating that energy consumption in Bitcoin mining will soar by the year 2022, the POW consensus remains unsustainable. 
+With classic blockchain networks, the Proof-of-Work (POW) consensus mechanism requires mining (computational power) to do proof-of-work computations. These transactions consume alarmingly large amounts of energy. To clarify, the current annual estimated energy consumption of Bitcoin mining activities is 87.17 terawatt-hours (TWh)<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup> while the energy consumption of Ethereum is 29.41 TWh.<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup><sup> </sup>Put into further perspective, as of 2017, Bitcoin mining activities consumed energy levels equivalent to Denmark’s energy consumption. With projections indicating that energy consumption in Bitcoin mining will soar by the year 2022, the POW consensus remains unsustainable. 
 </p>
 <ul>
 
 <li><strong>Anonymous Network Node</strong>
 <p>
 
-    A transaction hash is a unique string of code that’s given to transactions that have been verified and added to a blockchain. With blockchain nodes playing an important part in transaction hashing, the anonymity of nodes—which store copies of the distributed ledger and maintain the reliability of the stored data—poses a problem. With governments seeking control of sensitive transactions, lack of government control, lack of regulatory authority, and maintaining pseudo-anonymity is a challenge. Notably, anonymous transactions may lead to misuse of blockchain technology, undermining government and regulatory activities. 
+A transaction hash is a unique string of code that’s given to transactions that have been verified and added to a blockchain. With blockchain nodes playing an important part in transaction hashing, the anonymity of nodes—which store copies of the distributed ledger and maintain the reliability of the stored data—poses a problem. With governments seeking control of sensitive transactions, lack of government control, lack of regulatory authority, and maintaining pseudo-anonymity is a challenge. Notably, anonymous transactions may lead to misuse of blockchain technology, undermining government and regulatory activities. 
 </p>
 </li>
 </ul>
