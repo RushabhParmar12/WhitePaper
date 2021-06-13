@@ -73,7 +73,7 @@ Whilst Bitcoin and Ethereum are game-changing technologies, they present a myria
 <li><strong>Transaction In-Efficiency</strong>
 <p>
 
-    Consortium blockchains, employed by leading cryptocurrencies like Bitcoin and Ethereum, experience a blockchain scaling problem. More specifically, they don’t scale well to handle large transaction volumes. Put into context: the fixed block size in the Bitcoin blockchain and gas prices in Ethereum cap their transactions per second (TPS) to 7 and 15, respectively. This small throughput severely hinders the wide-spread adoption of such cryptocurrencies.
+Consortium blockchains, employed by leading cryptocurrencies like Bitcoin and Ethereum, experience a blockchain scaling problem. More specifically, they don’t scale well to handle large transaction volumes. Put into context: the fixed block size in the Bitcoin blockchain and gas prices in Ethereum cap their transactions per second (TPS) to 7 and 15, respectively. This small throughput severely hinders the wide-spread adoption of such cryptocurrencies.
 </p>
 </li>
 </ul>
