@@ -1,5 +1,7 @@
-    ## XinFin Network-XDC Consensus Algorithm White Paper (Updated) #
+<p>
 
+    XinFin Network-XDC Consensus Algorithm White Paper (Updated)
+</p>
 <p>
 
     Updated on May 4th, 2021
