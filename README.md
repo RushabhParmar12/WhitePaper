@@ -1,6 +1,6 @@
 <p>
 
-    XinFin Network-XDC Consensus Algorithm White Paper (Updated)
+    ##XinFin Network-XDC Consensus Algorithm White Paper (Updated)
 </p>
 <p>
 
